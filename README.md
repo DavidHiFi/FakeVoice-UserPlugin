@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository is archived. The plugin now lives in [DavidHiFi/Discord-Plugins](https://github.com/DavidHiFi/Discord-Plugins/tree/main/fakevoice) with all of DavidHiFi's Discord plugins.
+
 # FakeVoice user plugin
 
 FakeVoice lets you control the fake mute, deafen, camera, stream, and Watch Together states from a button in the Discord user area. Right-click the button for separate controls. The plugin also has Ctrl+J and Ctrl+L shortcuts for fake mute and fake deafen.
